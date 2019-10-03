@@ -74,17 +74,3 @@ Use Flask API starter code to serve the data needed for your plots.
 * Test your routes by visiting each one in the browser.
 
 - - -
-
-## Hints
-
-* Don't forget to `pip install -r requirements.txt` before you start your server.
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-
-* Refer to the [Plotly.js Documentation](https://plot.ly/javascript/) when building the plots.
-
-- - -
-
-### Copyright
-
-Data Boot Camp © 2018. All Rights Reserved.
